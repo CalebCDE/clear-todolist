@@ -43,4 +43,6 @@
     <string name="font_size_small">Pequeño</string>
     <string name="font_size_normal">Normal</string>
     <string name="font_size_large">Grande</string>
+    
+     <string name="group_all">Todos</string>
 </resources>
